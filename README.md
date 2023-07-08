@@ -3,4 +3,5 @@
 Link to Game:
 https://s0deinde.github.io/2048/
 
-My Current High Score: 3460
+My Current High Score: 5188
+
