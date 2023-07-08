@@ -271,5 +271,8 @@ function getHighScore() {
     if (storedHighScore) {
         highScore = parseInt(storedHighScore);
     }
+    else{
+        highScore = score;
+    }
 }
 
